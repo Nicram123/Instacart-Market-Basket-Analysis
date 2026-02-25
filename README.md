@@ -148,18 +148,3 @@ Weak but usable:
 
 ---
 
-\\\`markdown
-# 📂 Project Structure
-
-Instacart-Market-Basket-Analysis/
-│
-├── data/
-├── notebooks/
-├── photos/
-├── parquet_files/
-├── src/
-├── models/
-├── README.md
-└── requirements.txt
-\\\`
-
