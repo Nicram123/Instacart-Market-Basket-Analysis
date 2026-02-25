@@ -148,6 +148,7 @@ Weak but usable:
 
 ---
 
+\\\`markdown
 # 📂 Project Structure
 
 Instacart-Market-Basket-Analysis/
@@ -160,4 +161,5 @@ Instacart-Market-Basket-Analysis/
 ├── models/
 ├── README.md
 └── requirements.txt
+\\\`
 
